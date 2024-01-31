@@ -6,6 +6,9 @@ protocol MovieQuizViewControllerProtocol: AnyObject {
     
     func highlightImageBorder(isCorrectAnswer: Bool)
     
+    func enableButtons()
+    func disableButtons()
+    
     func showLoadingIndicator()
     func hideLoadingIndicator()
     
