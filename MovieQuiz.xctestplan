@@ -24,7 +24,6 @@
       }
     },
     {
-      "parallelizable" : true,
       "target" : {
         "containerPath" : "container:MovieQuiz.xcodeproj",
         "identifier" : "19A67D462B6E5E1200E83CF1",
@@ -32,7 +31,6 @@
       }
     },
     {
-      "parallelizable" : true,
       "target" : {
         "containerPath" : "container:MovieQuiz.xcodeproj",
         "identifier" : "19A67D592B6E5EDB00E83CF1",
